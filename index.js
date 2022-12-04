@@ -46,7 +46,6 @@ function calculateProfitAndLoss(intial, quantity, current) {
 
     }
 
-
 }
 
 function showMessage(message) {
