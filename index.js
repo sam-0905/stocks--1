@@ -40,7 +40,6 @@ function calculateProfitAndLoss(initial, quantity, current) {
         var profitPercentage = (profit / initial) * 100;
 
         showMessage(`Hey the profit is ${profit} and the percent is ${profitPercentage} %`)
-
     }
     // else { //  rest logic here
     // showMessage(`Hey !No pain No Gain and No gain No pain !`)
